@@ -6,7 +6,14 @@ Create a intro video for storyline
 
 Systems: 
 Crafting System
+World Map System
 
 Stuffs: 
 Fishing 
 Farming
+
+Others:
+Recreate Story
+
+INFORMATION:
+World Map System: 
