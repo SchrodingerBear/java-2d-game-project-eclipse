@@ -7,6 +7,7 @@ Create a intro video for storyline
 Systems: 
 Crafting System
 World Map System
+Quest System
 
 Stuffs: 
 Fishing 
@@ -16,4 +17,4 @@ Others:
 Recreate Story
 
 INFORMATION:
-World Map System: 
+World Map System: The character will unlock islands as the story progresses. 
