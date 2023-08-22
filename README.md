@@ -5,7 +5,7 @@ Rep Owner:
 SchrodingerBear <br>
 
 Credits:
-**[King Rysnow](https://www.youtube.com/user/RySnow)**  <br>
+**[King Rysnow](https://www.youtube.com/@RyiSnow)**  <br>
 
 Collaborators: <br>
 
