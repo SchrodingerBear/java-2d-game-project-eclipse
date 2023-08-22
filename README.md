@@ -2,6 +2,7 @@
 ...
 
 # Visuals:
+<h3>> INTRO <</h3>
 Create a storyline -- Ex. One day in an island... <br>
 Create a intro video for storyline
 
