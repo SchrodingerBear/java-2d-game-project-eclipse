@@ -17,4 +17,7 @@ Others:
 Recreate Story
 
 INFORMATION:
-World Map System: The character will unlock islands as the story progresses. 
+World Map System: 
+ - The character will unlock islands as the story progress. There are 5 Islands, the Main Images for islands are stored in "world system project" folder in res folder.
+
+
