@@ -1,5 +1,14 @@
 # 2D Game Project
-...
+About:  <br>
+
+Rep Owner: 
+SchrodingerBear <br>
+
+Credits:
+**[King Rysnow](https://www.youtube.com/user/RySnow)**  <br>
+
+Collaborators: <br>
+
 
 # Visuals:
 <h3>> INTRO <</h3>
