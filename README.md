@@ -2,21 +2,21 @@
 ...
 
 # Visuals:
-Create a storyline -- Ex. One day in an island... 
+Create a storyline -- Ex. One day in an island... <br>
 Create a intro video for storyline
 
 # Systems: 
-Crafting System
-World Map System
-Quest System
+Crafting System <br>
+World Map System <br>
+Quest System <br>
 
 # Stuffs: 
-Fishing 
-Farming
+Fishing <br>
+Farming <br>
 
 # Others:
-Recreate the Whole Game, Fix Acknowledgment, further development to be updated...
+Recreate the Whole Game, Fix Acknowledgment, further development to be updated... <br>
 
 # INFORMATION:
 World Map System: 
- - The character will unlock islands as the story progress. There are 5 Islands, the Main Images for islands are stored in "world system project" folder in res folder.
+ - The character will unlock islands as the story progress. There are 5 Islands, the Main Images for islands are stored in "world system project" folder in res folder. 
