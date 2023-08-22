@@ -1,0 +1,23 @@
+launched
+GamePanel created
+setObject Loaded
+NPC_OldMan done
+merchant getimage done
+OBJ_Potion_Red done
+OBJ_Potion_Blue done
+OBJ_ReturnOrb done
+OBJ_Tent done
+OBJ_Lantern done
+OBJ_Key done
+OBJ_Sword_Normal done
+OBJ_Axe done
+OBJ_Pickaxe done
+OBJ_Shield_Wood done
+merchant setitems done
+NPC_Merchant done
+NPC_BigRock done
+setNPC Loaded
+setMonster Loaded
+setInteractiveTile Loaded
+eManager Loaded
+setupGame done
