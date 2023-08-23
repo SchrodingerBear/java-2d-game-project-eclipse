@@ -28,6 +28,12 @@ Farming <br>
 
 # Others:
 Recreate the Whole Game, Fix Acknowledgment, further development to be updated... <br>
+AI SPEAKING <br>
+CONTINUES NPC SPEAKING <br>
+MUSIC CONTROL <br>
+WORLD GENERATION <br>
+STRUCTURE GENERATION <br>
+DEBUG SHOW EVENT HITBOX <br>
 
 # INFORMATION:
 <h3>> World Map System: <</h3>
