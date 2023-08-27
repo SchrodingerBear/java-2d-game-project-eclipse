@@ -20,6 +20,7 @@ Crafting System <br>
 World Map System <br>
 Quest System <br>
 Food System <br>
+Character System <br>
 
 # Stuffs: 
 Poultry <br>
