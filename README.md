@@ -23,7 +23,7 @@ Food System <br>
 Character System <br>
 
 # Stuffs: 
-Livstocks <br>
+Livetocks <br>
 Poultry <br>
 Fishing <br>
 Farming <br>
